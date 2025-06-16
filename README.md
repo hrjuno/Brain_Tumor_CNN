@@ -84,7 +84,7 @@ Model menggunakan **loss binary crossentropy** dan **optimizer Adam** untuk pros
 
 | Gambar MRI | Hasil Prediksi | Confidence Score |
 |------------|----------------|------------------|
-| ![sample1](images/sample1.png) | Tumor detected | 91% |
+| ![sample1](images/sample1.png) | Tumor detected | 99% |
 | ![sample2](images/sample2.png) | No tumor detected | 87% |
 
 > Catatan: Prediksi menggunakan gambar baru dari pengguna dengan proses preprocessing yang sama seperti saat training.
